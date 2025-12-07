@@ -1,0 +1,9 @@
+{
+  "farmersdelight.advancement.place_organic_compost": "Инновационный компост",
+  "farmersdelight.advancement.place_organic_compost.desc": "Поместите на землю Органический Компост. Он лучше гниёт на солнце, с водой и грибами!",
+  "farmersdelight.advancement.get_fd_seed": "Дикие посевы",
+  "farmersdelight.advancement.get_fd_seed.desc": "В дикой природе, в разных климатах, можно найти четыре новых вида растений... или же в каком-нибудь сундуке.",
+  "farmersdelight.advancement.hit_raider_with_rotten_tomato": "Бу! Ш-ш-ш!",
+  "farmersdelight.advancement.hit_raider_with_rotten_tomato.desc": "Бросьте гнилой помидор в одного из этих назойливых рейдеров!",
+  "item.farmersdelight.rotten_tomato": "Гнилой помидор"
+}

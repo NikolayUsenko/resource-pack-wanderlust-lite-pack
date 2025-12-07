@@ -1,0 +1,11 @@
+{
+  "item.savageandravage.trickster_spawn_egg": "Яйцо призыва лжеца",
+  "entity.savageandravage.trickster": "Лжец",
+  "item.savageandravage.mask_of_dishonesty": "Маска лжеца",
+  "item.savageandravage.conch_of_conjuring": "Ракушка заклинателя",
+
+  "advancements.savageandravage.adventure.creeper_spores.title": "Докучливые криперята",
+  "advancements.savageandravage.adventure.creeper_spores.description": "Получите споры криперов, убив крипера взрывом.",
+  "advancements.savageandravage.adventure.mask_of_dishonesty.title": "Небольшая ложь",
+  "advancements.savageandravage.adventure.mask_of_dishonesty.description": "Получите маску лжеца, убив лжеца."
+}

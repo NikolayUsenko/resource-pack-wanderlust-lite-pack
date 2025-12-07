@@ -1,0 +1,17 @@
+{
+  "biome.biomesoplenty.marsh": "Топь",
+  "biome.biomesoplenty.dense_marsh": "Непроходимая топь",
+  "biome.biomesoplenty.woodland": "Редколесье",
+  "biome.biomesoplenty.dense_woodland": "Плотное редколесье",
+  "biome.biomesoplenty.grassland": "Пастбище",
+  "biome.biomesoplenty.grassland_clover_patch": "Пастбище с клеверной россыпью",
+  "biome.biomesoplenty.muskeg": "Моховые топи",
+  "biome.biomesoplenty.shroomy_wetland": "Грибное болото",
+  "biome.biomesoplenty.tall_dead_forest": "Высокий мёртвый лес",
+  "biome.biomesoplenty.wetland_forest": "Болотистый лес",
+
+  "block.biomesoplenty.spanish_moss": "Испанский мох",
+  "block.biomesoplenty.spanish_moss_plant": "Испанский мох",
+  "block.biomesoplenty.clover": "Клевер",
+  "block.biomesoplenty.huge_clover_petal": "Огромный лепесток клевера"
+}

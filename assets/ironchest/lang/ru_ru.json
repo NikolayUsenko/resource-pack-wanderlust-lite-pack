@@ -1,0 +1,31 @@
+{
+  "block.ironchest.iron_chest": "Железный сундук",
+  "block.ironchest.gold_chest": "Золотой сундук",
+  "block.ironchest.diamond_chest": "Алмазный сундук",
+  "block.ironchest.copper_chest": "Медный сундук",
+  "block.ironchest.silver_chest": "Серебряный сундук",
+  "block.ironchest.crystal_chest": "Кристальный сундук",
+  "block.ironchest.obsidian_chest": "Обсидиановый сундук",
+  "block.ironchest.dirt_chest": "DirtChest 9000!",
+
+  "item.ironchest.iron_to_gold_chest_upgrade": "Улучшение сундука [Железный -> Золотой]",
+  "item.ironchest.gold_to_diamond_chest_upgrade": "Улучшение сундука [Золотой -> Алмазный]",
+  "item.ironchest.copper_to_silver_chest_upgrade": "Улучшение сундука [Медный -> Серебряный]",
+  "item.ironchest.silver_to_gold_chest_upgrade": "Улучшение сундука [Серебряный -> Золотой]",
+  "item.ironchest.copper_to_iron_chest_upgrade": "Улучшение сундука [Медный -> Железный]",
+  "item.ironchest.diamond_to_crystal_chest_upgrade": "Улучшение сундука [Алмазный -> Кристальный]",
+  "item.ironchest.wood_to_iron_chest_upgrade": "Улучшение сундука [Деревянный -> Железный]",
+  "item.ironchest.wood_to_copper_chest_upgrade": "Улучшение сундука [Деревянный -> Медный]",
+  "item.ironchest.diamond_to_obsidian_chest_upgrade": "Улучшение сундука [Алмазный -> Обсидиановый]",
+
+  "ironchest.container.iron_chest": "Железный сундук",
+  "ironchest.container.gold_chest": "Золотой сундук",
+  "ironchest.container.diamond_chest": "Алмазный сундук",
+  "ironchest.container.copper_chest": "Медный сундук",
+  "ironchest.container.silver_chest": "Серебряный сундук",
+  "ironchest.container.crystal_chest": "Кристальный сундук",
+  "ironchest.container.obsidian_chest": "Обсидиановый сундук",
+  "ironchest.container.dirt_chest": "DirtChest 9000!",
+
+  "itemGroup.ironchest": "Iron Chests"
+}
