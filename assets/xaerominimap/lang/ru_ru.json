@@ -25,5 +25,10 @@
   "gui.xaero_dimension_scaled_max_waypoint_distance" : "Масштабируемая макс. дистанция меток",
 	"gui.xaero_box_dimension_scaled_max_waypoint_distance" : "Масштабировать максимальную дистанцию отрисовки меток в зависимости от коэффициента координат текущего измерения (например, 1/8 в Нижнем мире).",
 
-  "gui.xaero_infodisplay_custom_sub_world" : "Метка из другого мира"
+  "gui.xaero_infodisplay_custom_sub_world" : "Метка из другого мира",
+
+  "gui.xaero_toggle_tracked_players_on_map" : "Показать отслеживаемых игроков на карте",
+	"gui.xaero_toggle_tracked_players_in_world" : "Показать отслеживаемых игроков в мире",
+
+  "gui.xaero_display_all_sets" : "Показать все наборы меток"
 }
