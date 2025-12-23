@@ -18,7 +18,7 @@
 
   "entity.frozenup.chilloo": "Чиллу",
 
-  "frozenup.chilloo.ambient": "Чириканье Чиллу",
-  "frozenup.chilloo.hurt": "Получение урона Чиллу",
-  "frozenup.chilloo.death": "Смерть Чиллу"
+  "frozenup.chilloo.ambient": "Чиллу чирикает",
+  "frozenup.chilloo.hurt": "Чиллу получила урон",
+  "frozenup.chilloo.death": "Чиллу мертва"
 }

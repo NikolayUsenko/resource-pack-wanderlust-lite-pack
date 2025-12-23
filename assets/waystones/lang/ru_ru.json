@@ -52,10 +52,12 @@
   "tooltip.waystones.not_enough_xp": "Недостаточно опыта! (Требуется %d уровней)",
   "tooltip.waystones.undiscovered": "Необнаруженный",
 
-  "block.waystones.warp_plate": "Плита перемещения",
-  "waystones:warp_plate": "Плита перемещения",
-  "container.waystones.warp_plate": "Плита перемещения",
+  "block.waystones.warp_plate": "Телепортационная платформа",
+  "waystones:warp_plate": "Телепортационная платформа",
+  "container.waystones.warp_plate": "Телепортационная платформа",
   
   "item.waystones.attuned_shard": "Гармонизированный осколок",
-  "item.waystones.warp_dust": "Пыль перемещения"
+  "item.waystones.warp_dust": "Телепортационная пыль",
+  "item.waystones.warp_stone": "Телепортационный камень",
+  "chat.waystones.warpstone_not_charged": "Телепортационный камень ещё не перезарядился."
 }
